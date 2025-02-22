@@ -28,6 +28,28 @@ The **Online Meeting Application** is a web-based platform designed for seamless
 - **Firebase Authentication** (User Management)
 - **Firestore** (Database for real-time data storage)
 
+## 📸 UI Screenshots
+
+### Login Screen
+
+![Login Screen](UI_Screenshots/login_screen.PNG)
+
+### Home Screen
+
+![Home Screen](UI_Screenshots/Home_screen.PNG)
+
+### Meetings Screen
+
+![Meetings Screen](UI_Screenshots/Meetings_Screen.PNG)
+
+### Chat Room
+
+![Chat Room](UI_Screenshots/chats_room_screen.PNG)
+
+### Settings Screen
+
+![Settings Screen](UI_Screenshots/Settings_screen.PNG)
+
 ## 🔥 Firebase Integration
 
 The project uses **Firebase** for backend functionalities. Below are the Firebase services used:
