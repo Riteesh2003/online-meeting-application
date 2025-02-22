@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+Online Meeting Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Overview
 
-## Available Scripts
+The Online Meeting Application is a web-based platform designed for seamless virtual communication. Built with React.js and Firebase, it enables users to effortlessly schedule, join, and manage online meetings, ensuring a smooth and interactive experience.
 
-In the project directory, you can run:
+🔥 Features
 
-### `npm start`
+🔐 User Authentication: Secure login and signup with Firebase Authentication.
+📅 Meeting Management: Create, join, and schedule meetings with ease.
+💬 Real-Time Communication: Integrated chat and user profile management.
+🎥 Video & Audio Support: High-quality video and audio conferencing.
+📱 Responsive UI: Optimized for a seamless experience across devices.
+🔄 State Management: Efficient state handling using React Hooks.
+🚀 Fast & Scalable: Built with Firebase for real-time updates and performance.
+🛠️ Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Frontend:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+React.js
+HTML, CSS, JavaScript
+React Router (for navigation)
+React Hooks (for state management)
 
-### `npm test`
+Backend:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Firebase Authentication (User Management)
+Firestore (Database for real-time data storage)
 
-### `npm run build`
+📌 Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Prerequisites
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Ensure you have the following installed:
+Node.js (latest version recommended)
+npm or yarn (for package management)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Installation & Setup
 
-### `npm run eject`
+Clone the repository:
+git clone https://github.com/your-username/online-meeting-app.git
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Navigate to the project directory:
+cd online-meeting-app
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Install dependencies:
+npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Start the development server:
+npm start
