@@ -1,20 +1,20 @@
 # Online Meeting Application
 
-## 🚀 Overview
+## Overview
 
 The **Online Meeting Application** is a web-based platform designed for seamless virtual communication. Built with **React.js** and **Firebase**, it enables users to effortlessly schedule, join, and manage online meetings, ensuring a smooth and interactive experience.
 
-## 🔥 Features
+## Features
 
-- 🔐 **User Authentication**: Secure login and signup with Firebase Authentication.
-- 📅 **Meeting Management**: Create, join, and schedule meetings with ease.
-- 💬 **Real-Time Communication**: Integrated chat and user profile management.
-- 🎥 **Video & Audio Support**: High-quality video and audio conferencing.
-- 📱 **Responsive UI**: Optimized for a seamless experience across devices.
-- 🔄 **State Management**: Efficient state handling using React Hooks.
-- 🚀 **Fast & Scalable**: Built with Firebase for real-time updates and performance.
+- **User Authentication**: Secure login and signup with Firebase Authentication.
+- **Meeting Management**: Create, join, and schedule meetings with ease.
+- **Real-Time Communication**: Integrated chat and user profile management.
+- **Video & Audio Support**: High-quality video and audio conferencing.
+- **Responsive UI**: Optimized for a seamless experience across devices.
+- **State Management**: Efficient state handling using React Hooks.
+- **Fast & Scalable**: Built with Firebase for real-time updates and performance.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Frontend:**
 
@@ -28,7 +28,7 @@ The **Online Meeting Application** is a web-based platform designed for seamless
 - **Firebase Authentication** (User Management)
 - **Firestore** (Database for real-time data storage)
 
-## 📸 UI Screenshots
+## UI Screenshots
 
 ### Login Screen
 
@@ -50,7 +50,7 @@ The **Online Meeting Application** is a web-based platform designed for seamless
 
 ![Settings Screen](UI_Screenshots/Settings_screen.PNG)
 
-## 🔥 Firebase Integration
+## Firebase Integration
 
 The project uses **Firebase** for backend functionalities. Below are the Firebase services used:
 
